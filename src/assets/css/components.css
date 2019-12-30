@@ -1,0 +1,15 @@
+.FitAndRes {
+    flex-grow: 1;
+    display: flex;
+    padding-Top: 15px;
+}
+.card {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    height: 130px;
+}
+.cardHi {
+    display: none;
+    height: 130px;
+}
